@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.dropbox.com/s/xlwu5ktfinq5n5f/undraw_developer_activity_bv83.svg?dl=0" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fabian</h1>
 <h3 align="center">I'm a 👋 passionate Product Designer and Developer from Kenya.</h3>
