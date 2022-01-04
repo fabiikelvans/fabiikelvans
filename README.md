@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/ZYgKPSJ/undraw-developer-activity-bv83.png" alt="undraw-developer-activity-bv83" border="0"></a>
+<a href="#"><img width="100%" height="auto" src="https://readyplayer.me/gallery/4SWLKahog" alt="undraw-developer-activity-bv83" border="0"></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fabian</h1>
 <h3 align="center">I'm a 👋 passionate Product Designer and Developer from Kenya.</h3>
