@@ -32,7 +32,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwind_css.png"/> </a>   
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://get.webgl.org/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/webgl.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://threejs.org/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/three-triangles.png"/> </a> 
   
 </p>
 
