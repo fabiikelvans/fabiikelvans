@@ -59,10 +59,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/fabiikelvans/github-readme-activity-graph"><img alt="Fabian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fabiikelvans&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
+
 
 ## Connect with me:
 <p align="left">
