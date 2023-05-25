@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning **Vue JS and Nuxt.**
+- 🌱 I’m currently using **T3 Stack**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -13,7 +13,6 @@
 
 - 📫 Reach me at **fkelvans@gmail.com**
 
-- ⚡ Fun fact **I smile 😄 a lot and go to the gym 🏋️ very often.**
   
 <br/><br/>
 
