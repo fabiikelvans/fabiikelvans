@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fabian</h1>
-<h3 align="center">A passionate Creative Developer & Interaction Designer</h3>
+<h3 align="center">Developer & Designer</h3>
 
 
 ## 👨🏻‍💻 About Me
